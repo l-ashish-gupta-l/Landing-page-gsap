@@ -41,4 +41,9 @@ Create an eye-catching landing page with smooth animations using GSAP (GreenSock
 
 # Usage
 1)Customize the content in the index.html file to match your landing page's message.
-2)Adjust animations in the script.js file using GSAP's powerful animation functions.
+2)Adjust animations in the script.js file using GSAP's powerful animation fun.
+
+
+## Installation 
+-- install font ( ttf file given in repo)
+-- clone and direct run
